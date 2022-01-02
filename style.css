@@ -1,0 +1,14 @@
+.container {
+    margin: 8rem auto;
+}
+
+.form-control.error input {
+    border-color: red;
+}
+
+
+.error-msg {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: red;
+}
